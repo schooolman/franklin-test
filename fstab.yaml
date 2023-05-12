@@ -1,2 +1,3 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1MfMBSHZ4DQQoleE7TxBDOy3PM3HIu00_
+#   /: https://drive.google.com/drive/folders/1MfMBSHZ4DQQoleE7TxBDOy3PM3HIu00_
+  /: https://www.notion.so/schooolman/Franklin-test-02db8c0210a845a29bf38301f801b341?pvs=4
